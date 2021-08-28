@@ -1,5 +1,5 @@
 # Digital Clock
-Real-time digital clock with Javascript, HTML5 and CSS3.
+Real-time digital clock with Javascript, HTML5 and CSS3. DOM management with Javascript. Animation with CSS classes.
 
 <!-- Video -->
 ## Video
